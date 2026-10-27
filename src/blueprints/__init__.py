@@ -1,4 +1,4 @@
-from blueprints.alumnos.routes import alumnos _bp
+from blueprints.alumnos.routes import alumnos_bp
 from blueprints.maestros.routes import maestros_bp
 
 def registrar_blueprints(app):
